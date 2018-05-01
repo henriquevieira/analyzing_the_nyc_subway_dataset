@@ -99,8 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
-turnstile_1706.txt
 turnstile_170603.txt
 turnstile_170610.txt
 turnstile_170617.txt
 turnstile_170624.txt
+turnstile_data_master.csv
